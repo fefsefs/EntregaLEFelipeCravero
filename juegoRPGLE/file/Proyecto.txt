@@ -1,0 +1,4 @@
+Nombre del personaje: asds
+Vida del personaje: 5
+Daño del personaje: 5
+Cuentas de muertes: 1
